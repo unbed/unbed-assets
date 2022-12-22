@@ -15,6 +15,11 @@ margin-left: auto;
 margin-top: 12.5%;
 display: grid;
 place-items: center;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
 }
 
     .button {
